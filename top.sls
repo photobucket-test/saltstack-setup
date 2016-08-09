@@ -12,7 +12,7 @@ production:
 
 
 # dev environments, branched from production
-dev_webserver:
+dev_ws:
 
 
 dev_db:
