@@ -1,0 +1,2 @@
+# saltstack-setup
+Simple setup
